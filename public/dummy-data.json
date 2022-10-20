@@ -1,0 +1,1417 @@
+[
+    {
+        "name":"Palm Harbor",
+        "price":2400,
+        "state":"New York",
+        "Beds":5,
+        "Bathrooms":3,
+        "area":"3x7.5 m2",
+        "address":"8730 Stony Point Parkway, Suite 400, New York, VA 23235",
+        "type":"Houses",
+        "date":"2022-10-19",
+        "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    
+
+    {
+        "name":"Beverly Springfield",
+        "price":1300,
+        "state":"New York",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "address":"360 Interstate North Parkway SE, Suite 600, New York, GA 30339",
+        "type":"Offices",
+        "date":"2022-10-20",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+
+    {
+        "name":"Faulkner Ave",
+        "price":1750,
+        "state":"Texas",
+        "Beds":7,
+        "Bathrooms":5,
+        "area":"11x3.5 m2",
+        "address":"950-11-52 W. Bannock St, Suite 700, Texas, ID 83702",
+        "type":"Houses",
+        "date":"2022-10-21",
+        "image":"https://media.istockphoto.com/photos/dream-home-luxury-house-success-suburban-house-picture-id1281554848?b=1&k=20&m=1281554848&s=170667a&w=0&h=s7X81b-3hfEGTYVkFKDOG7ZDySs57Tpw_WAETXi5xnQ="
+    },
+    
+    {
+        "name":"Blue Reef Properties",
+        "price":3590,
+        "state":"Washington",
+        "Beds":3,
+        "Bathrooms":1,
+        "area":"8x7 m2",
+        "type":"Offices",
+        "date":"2022-10-22",
+        "address":"377 E. Butterfield Rd, Suite 500, Washington, IL 60148",
+        "image":"https://i.pinimg.com/originals/9a/9e/54/9a9e5465d015b69f5a3463882b70ce4f.jpg"
+    },
+
+    {
+        "name":"Beacon Homes",
+        "price":1670,
+        "state":"Texas",
+        "Beds":1,
+        "type":"Houses",
+        "Bathrooms":3,
+        "area":"13x7 m2",
+        "date":"2022-10-19",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, Texas",
+        "image":"https://archello.s3.eu-central-1.amazonaws.com/images/2021/02/02/leo-romano-most-beautiful-house-private-houses-archello.1612253803.2979.jpg"
+    },
+
+    {
+        "name":"Black Oak Realty",
+        "price":2650,
+        "state":"Ohio",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Houses",
+        "area":"13x7.5 m2",
+        "date":"2022-10-20",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  Ohio",
+        "image":"https://netstorage-legit.akamaized.net/images/31c1324abb4bcdd6.jpg?&imwidth=1200"
+    },
+
+    {
+        "name":"Blue Slate Realty",
+        "price":2050,
+        "state":"Texas",
+        "Beds":3,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"3x5 m2",
+        "date":"2022-10-21",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Texas",
+        "image":"https://engineeringdiscoveries.com/wp-content/uploads/2020/07/0e83271be9480bc53601ceec07353ebe.jpg"
+    },
+
+    {
+        "name":"Divine Nooks",
+        "price":3450,
+        "state":"Michigan",
+        "Beds":8,
+        "Bathrooms":4,
+        "area":"3x9.5 m2",
+        "type":"Hotels",
+        "date":"2022-10-22",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/Michigan",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Marlboro Buildings",
+        "price":1600,
+        "state":"New York",
+        "Beds":5,
+        "Bathrooms":3,
+        "area":"3x7.5 m2",
+        "address":"9780 Watery Point Parkway, Suite 652, New York, AV 29035",
+        "type":"Offices",
+        "date":"2022-10-19",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxCIDS-OE12wTy3vLrhMdrhXuONYQ3d4_jw&usqp=CAU"
+    },
+    {
+        "name":"Office Upkeep",
+        "price":1400,
+        "state":"New York",
+        "Beds":4,
+        "Bathrooms":13,
+        "area":"5x9.5 m2",
+        "date":"2022-10-20",
+        "address":"360 Interstate North Parkway SE, Suite 600, New York, GA 30339",
+        "type":"Offices",
+        "image":"https://img.staticmb.com/mbcontent/images/uploads/2022/6/office-interior-design.jpg"
+    },
+    {
+        "name":"Astound Offices",
+        "price":1750,
+        "state":"New York",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, New York",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"OfficeEx",
+        "price":2490,
+        "state":"New York",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "type":"Offices",
+        "date":"2022-10-22",
+        "address":"377 E. Butterfield Rd, Suite 700, New York, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX",
+        "price":1600,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "type":"Houses",
+        "date":"2022-10-19",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+    {
+        "name":"Phoenix Homes",
+        "price":1900,
+        "state":"New York",
+        "Beds":2,
+        "type":"Houses",
+        "Bathrooms":3,
+        "area":"15x7 m2",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, New York",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Astound Offices",
+        "price":1200,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ New York",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage",
+        "price":1100,
+        "state":"New York",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Offices",
+        "area":"13x7.5 m2",
+        "date":"2022-10-22",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  New York",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+    {
+        "name":"Exela Movers",
+        "price":1700,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Offices",
+        "area":"9x7.5 m2",
+        "date":"2022-10-19",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  New York",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+    {
+        "name":"Interprid Travel",
+        "price":2400,
+        "state":"New York",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "date":"2022-10-20",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Bogotá",
+        "type":"Offices",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+    {
+        "name":"Blue Star Towers",
+        "price":1300,
+        "state":"New York",
+        "Beds":3,
+        "type":"Houses",
+        "Bathrooms":3,
+        "area":"3x5 m2",
+        "date":"2022-10-21",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "image":"data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Happy Homes",
+        "price":1400,
+        "state":"New York",
+        "Beds":4,
+        "type":"Houses",
+        "Bathrooms":5,
+        "date":"2022-10-21",
+        "area":"4x5 m2",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, New York",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+
+    {
+        "name":"Sanju Towers",
+        "price":1100,
+        "state":"New York",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6x5 m2",
+        "date":"2022-10-22",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, New York",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Apex Residency",
+        "price":1700,
+        "state":"New York",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "date":"2022-10-21",
+        "area":"6.7x5 m2",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, New York",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Residency",
+        "price":2100,
+        "state":"New York",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "date":"2022-10-20",
+        "area":"6.7x5 m2",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, New York",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+
+    
+
+    {
+        "name":"Astound Hotels",
+        "price":1750,
+        "state":"New York",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Hotels",
+        "date":"2022-10-21",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, New York",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"HotelEx",
+        "price":2490,
+        "state":"New York",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "date":"2022-10-22",
+        "type":"Hotels",
+        "address":"377 E. Butterfield Rd, Suite 700, New York, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX Hotels",
+        "price":1600,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "type":"Hotels",
+        "date":"2022-10-19",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+    {
+        "name":"Phoenix Hotels",
+        "price":1900,
+        "state":"New York",
+        "Beds":2,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"15x7 m2",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, New York",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Astound Hotels",
+        "price":1200,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Hotels",
+        "date":"2022-10-21",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ New York",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage Hotels",
+        "price":1100,
+        "state":"New York",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Hotels",
+        "area":"12.4x7.5 m2",
+        "date":"2022-10-22",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  New York",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+    {
+        "name":"Exela Hotels",
+        "price":1700,
+        "state":"New York",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Hotels",
+        "area":"9x7.5 m2",
+        "date":"2022-10-19",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  New York",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+    {
+        "name":"Interprid Travel Luxury",
+        "price":2400,
+        "state":"New York",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "date":"2022-10-20",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Bogotá",
+        "type":"Hotels",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+    {
+        "name":"Blue Star Hotels",
+        "price":1300,
+        "state":"New York",
+        "Beds":3,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"3x5 m2",
+        "date":"2022-10-21",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "image":"data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Happy Hotels",
+        "price":1400,
+        "state":"New York",
+        "Beds":4,
+        "type":"Hotels",
+        "Bathrooms":5,
+        "date":"2022-10-22",
+        "area":"4x5 m2",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, New York",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+
+    {
+        "name":"Sanju Hotels",
+        "price":1100,
+        "state":"New York",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6x5 m2",
+        "date":"2022-10-19",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, New York",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Apex Hotels",
+        "price":1700,
+        "state":"New York",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "date":"2022-10-20",
+        "area":"6.7x5 m2",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, New York",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Hotels",
+        "price":2100,
+        "state":"New York",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-21",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, New York",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+   
+    {
+        "name":"Astound Offices",
+        "price":1200,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Offices",
+        "date":"2022-10-22",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ Ohio",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage",
+        "price":1100,
+        "state":"Ohio",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Offices",
+        "area":"13x7.5 m2",
+        "date":"2022-10-19",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  Ohio",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+    {
+        "name":"Exela Movers",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Offices",
+        "area":"9x7.5 m2",
+        "date":"2022-10-20",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  Ohio",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+    {
+        "name":"Interprid Travel",
+        "price":2400,
+        "state":"Ohio",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Ohio",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+    {
+        "name":"Marlboro Buildings",
+        "price":1600,
+        "state":"Ohio",
+        "Beds":5,
+        "Bathrooms":3,
+        "area":"3x7.5 m2",
+        "address":"9780 Watery Point Parkway, Suite 652, Ohio, AV 29035",
+        "type":"Offices",
+        "date":"2022-10-22",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxCIDS-OE12wTy3vLrhMdrhXuONYQ3d4_jw&usqp=CAU"
+    },
+    {
+        "name":"Office Upkeep",
+        "price":1400,
+        "state":"Ohio",
+        "Beds":4,
+        "Bathrooms":13,
+        "area":"5x9.5 m2",
+        "address":"360 Interstate North Parkway SE, Suite 600, Ohio, GA 30339",
+        "type":"Offices",
+        "date":"2022-10-19",
+        "image":"https://img.staticmb.com/mbcontent/images/uploads/2022/6/office-interior-design.jpg"
+    },
+    {
+        "name":"Astound Offices",
+        "price":1750,
+        "state":"Ohio",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Offices",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, Ohio",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"OfficeEx",
+        "price":2490,
+        "state":"Ohio",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "address":"377 E. Butterfield Rd, Suite 700, Ohio, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX",
+        "price":1600,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "date":"2022-10-22",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Ohio",
+        "type":"Houses",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+    {
+        "name":"Phoenix Homes",
+        "price":1900,
+        "state":"Ohio",
+        "Beds":2,
+        "type":"Houses",
+        "Bathrooms":3,
+        "date":"2022-10-19",
+        "area":"15x7 m2",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, Ohio",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Blue Star Towers",
+        "price":1300,
+        "state":"Ohio",
+        "Beds":3,
+        "type":"Houses",
+        "Bathrooms":3,
+        "date":"2022-10-20",
+        "area":"3x5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Ohio",
+        "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgVFhUYGRgYGR4aGBwcGhwcGhgZGhgcHBoYGBocIy4lHB4rIxoYJzgmKy8xNTU1GiU7QDszPy40NTEBDAwMEA8QHxISHzYrJCs9NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIALcBEwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAEDBAYCB//EAEgQAAIBAgQCBAoHBgQEBwAAAAECEQADBBIhMQVBIlFhkQYTMlJxgZKhsdEVQlNicsHSFBYjouHwM0OC8SREVLIHY5OzwtPi/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgICAQUAAgIDAAAAAAAAAAECEQMSIRMiMUFRBHFhgRQykf/aAAwDAQACEQMRAD8AkilFdRSivROY5iniuopRWCcxSiuopRWMc09PFKKwBqVLLSisYVMaWWnisY5pU8UstMY5inC12qVMto0rdBSsrBakW2TVpbUb114wCl2+DKP04TCHnXRw4FMbtMXJoVIe4+hjbFAsTirwvMqwqqvPWROrqB1bQd6OsKH3uE5rr3c5GZQhUaSBMSdddaEk/QvBn7Zc5wwlOmQyyS5ZujB3Jykjq6QHKrfDsE7o4c9N0UsSIKiBAI22zUVGEMFjr5vOMu29T4KxqR2AE++O6BS6DJgnh/g2ix5RRjmZSxykaQGHPlofXNd8c4kbeZlK5EATLH12Ij0AD4GtEEA9QigOO4KjK+dozsWJGh2MCeoCfWazjUeDXzyCEwxvqBbyFE6U8yWMtuYmBE9ho1w+xkZLc6MS3aXRgjNPbufTyrMcJ4g1rOodUQy0GSwUEA8omAIGnldhrUcLxAuu2IUdAI2UmR0pJMA+g+7qpINP9mZaxDZ7u0ohy+l8oJj0CB256pYjD28Obr3IObK5JMyQMoSD269tErSFAGIUjyjDEEFzy0gxMb7AVR40wVFuBM7ZzcVTz0hSZ1H1TsdeVVapWJYEs4p2BtK38R16eboi3nhtY2youUnefVE+Cv4W3aRUOYZ8plc2d4GqrzAMa6R6iKrYawoL2LjgXrozvuYJXVS2mUd+jcoopgeBIkCJ+oN+iknP6C2076+ipxTbC2kRLglfDAW1zB3kCSEksTLHzANZ56cjrQsYu3hg69K4wAVBMh2ESEEaaseQ32rZiyoGUCABAA0AA2gbVnb/AAG2ji9dfopBG5JgQFHPkPXTyg1yvIqkRPxgTph0PpgGecz2zT1ocGFyLktnLGkqAY7Z1pUdH9BZBTxXUU4FWAcgU8V0BTxWMcRSy13FPFYxHFKKkimy1jHEUoqTJSyVjEUUoqXJSyVg0Rha7S2K6CV1FBhSHCiui8VxXOtLqGx3uGuN67y0gtFIDbZwFqQU4FdAVgIYa10BSUU8VqDZwV5UrSAek11FOKNAsTtWI8IsZeuu6ICEQ5W08omdfRuK28UAxVu+bzqqEo6hQZhQxUgsYEmpZY3Ggp8mdvYUi2ArpkQoWcISzDOdM4WNDIyie3nV+3jLmR2SFGZVcDWFiRp5zKAp6tTGtR4/hxtB7ShijZDpAlweoaleuOsVJi79oozW4VLQjeFLEjpZtztA31NSjGhrsMrigUVg5aWMkmcoJKLCjYwyjap+N4lradBc1x+ii6HQAnWfQTQjwUwSlEMHN/iPmEZTMiRuTrpRniHDi91LknKnIEyJ0JEc6srcbFfDMdwrB3Ll10ecqn+LMbzmys31gCF09Nb3C4cIoAJPadzQ3hWGDO7TOVgDpAJKq8mIny517DRsCtCNIEpWchaF47hZvXUZyciagSRLctjr6fjyMAU8U7Vgsg8SvVSqxFNWBYOininilFNQBqeKeKeK1BsaKUV0BTxWCcRTxXUUqwTmKeK6porUYaugaaKeKFGTO1pitKKVag2NlpwKVOK1GsQFPlpeuuprUEjyV1lpjTA1qFsVKlSogsVKaYmlNEA9OBTA04NYAN4xw9rpXpFVWScpEkkRFAlRnKotsoiEIeWZojkOlGmgIGpPKa1zWQxk1Ux1pVXMoJjpbnpHkO+pyjfI6l6OOE2jL5h5LFSeTEGdhpzond8k6xpv1VW4Xby21XnqW6sxMkd9WLrabaf3v2fGmXCFfkH4C+EzKwIk5wYJkECQeogzp1R2wRssWBPKdPRUdvCxHoGvORM9nOrKJHXWSMxAU4WugtdhaICPLSqSD1e+lSmBmWnipClNlpk0/Bmq8nEUorqKRpjHNPFVruOtqSrXEUjcFgCOexNR/SNr7VPbX50toYuUqpfSNn7W37a/On+kbP2qe2vzrWg8l2nql9J2ftU9sUvpSx9qntCtaMXKeqP0pZ+2t+0KccUsfbJ7QrWjF4U8VRHFsOP85PaFEK3DMcxT5aeKcLRMchKfJXYMV2DSthSK5Sllq0IpoFazag/E4lLcF3VJ2zECY3iagPFbH21v21+dAvDlxnRB9VZ9bzI/lWsqBU5ZGmZRPRvpTD/bW/bX5044nY+2t+2vzrznLTolDqv4HRHpKcQw/PEWvbX50x4nh/trftr8685NunFs1uqzao9GHFsP9sntr86qHiNpnDeOQKuoBdZY8idducejaKwuU06pQ6jNqj0S1xWwBrft+2vzrscTw7EDxyEkgAZ11M6R2zXnapVzgqf8Ta/GvxorIwOJ6SBXYWkq1Kq1Ymcha6C1Iq12ErGIstKpslKlMA0ucjUoAqgLk1Pbeo214L0mWXSoXqZGmKZh2VWOT6TcPhh/CRf45/CtDVSi/hOpF5oEwgIHXodJrKvxsqSGtQRv0v6VCc0pclowbQV8XS8XQ1eOH7Me3/SrC8TY/wCWPa/pU+rH6P038LBSuctRrj3P+WPaqO9jnUE+LHtf0odeF1ZulL4T5KbJVL6Tf7Md9RtxV/sx30etH6DpS+BO2IIJ2Bk+ij/DfCu2LaI6uXRQrEBSDA0Mlhyj1zWZ4fiTcVyVy5e2eVUsGvSb1fAVWM/aJyj6Zvf3rs+Zc9lf1Uv3us+Zc7l/VWOyU+WqbyF1Rsf3us+Zc7k/XS/e+z5lzuT9dY1krjLQ3ZqNofDGz5lzuT9dcnwzs+Zc7k/XWMy1A4obsNB7jOLGIY3FkKxEAxICrl1gntProE+LUMVytoY5fOiVj/DT0UBxH+I+v1j535VHLJrlFMcU3TClu+D9R/d86k/alXdH93zqPCp0R/8AqosRPIkepq5OvKzq6MaLoxieY/co/OuxjE8x/wCX51QtJPM9xqezZk7nuNB55B6ESd8ciiSj/wAvzqD6Wt+Y/wDL8654mkJvz6jQR7g6/dTxzSaFlhig2/GEH1H/AJfnRjgJz37DZSsupg7xNZ3g+ANx5bYQffWv4Un/ABNoffX8qtiyOUqZLLjUY2jfhalRa7FupFSu+zhOFSpFSpFSpFSlcg0RZKVWctNS7Bo84FypUxJFctZHVXJtUlFQjZxNXrd0HWgKgjY1Zw9witRgP4UH/iD+BfhWX47gQSWGhnQ+utF4QtN//StV+JWJn01xfk2mmjqweHZgxeKmDy9NXE4kOZ+PzrnHYfpKOsgUXXweXTQ95oKKkrA5OLop2OMBZkz3/Ole4wpUgTJ7T860HCeAWZcOFHRJGZS0kbKNNCa44jwm2LTkWlBCsQQoEGORqD1UqadllKTjfBm24ku2vv8AnUL41T1+/wCdaFOF2SB0F2HwqReE2PNXuodSC9M1TfwpeD7grcjs+BoLjnZWlWYSORI2rcPw+zatBkIDPmzKAREAQZ2O5rF45MzKOto767sbUsaaOWaak7Koxr+c/tN86X7Y/nP7TfOtJa8FQyhsw1AO7bHXqrv90h5w7zR1kJsjMftbee/tH51IMb95+8/Oj+J8GAgDFhGZQYkmGcLz9NWx4LW+o7x69v61tZB3Rlv23tbvPzqK5iidi3efnWwHgmh59Rjs1nn2e+h3F+ALbtM4nQae1z762sjbJljAz4tJ80fAVncbdi6/4jWoROiOwD4Cqx4MrMWKzm176bIuECLpgmxxYKAI27TSucSU9dbbB8Es+LSbSE5FklVJJgakxVbinB7QayBaQTchoUCRlbQwNdY7q89ZIN1R21NK7RmLXFkA2NTJx1B9U1r8LwHDlgGtoFJ1OQEgdcV3ieC4VWOW2pWeicigkctNaR5IfGNU/qMFxLiq3FyqpGs6mqmFtljMdf5VoOO4FArkWvFhDlnKBmeDpI5QDRLgmBwwsIzly5UkgAQDrzJ9FVc1GFpCRUpS5FwlAmnYPjRDgjTi7Y/8xfyqRggaEU7Df01zwFf+Ntdtxfyqv4r7hfyV2np626nS3T4i6lsAu6ICQAWYKCTsBPOgPG/CtbDlETNFtnLEkCQsqF0gx9bMVI0GpNd0siRwKIS4li3tRkstd6wpgga669E9vSG9Pw3iSXLau5VCxgozCVaQAusSekvtCvLcbxN7t1LgclS4nNcBBKkS0NKpqwMDo6nkKrX72UsgdFysWlFAYNmysDB1J6J0AA3gbVzyzooonqzeEuCBIN4SCQei+4MebSrzfhoItrlu3VGsBVbKOkdopqXrM2oftYlW0zAsBryPpI5VJANZm7xIOJJYA6CMpI7OU8hrprvT4fGX1YLKno6AmQT17+nSeWlW/wAiINQldxio+RwBAktMAAkx8KJWsOSMwEjrocuIF1CtwBGjMjZsqlkMlSSNNtZn4UY4Tjs1tgGi4ilhsMwXrX6wPOI7KeMk35A7Mhxtv4xJ2hSezTUVNevKwzAMQYIORvlUXhDeL3mbKFJAGhnlvsNfVyrnCqMiggAgCZy/OubOk2dGF0ZviijOh2h13BHdpWwsuoKiGnfyW2BHZ2isrxhRnSI8tdo/Ka1ioM6beS3m+cn3qOJdouV9xpBf10V+3onsqvxO6jWbobOOg31eznroKs4QSxkDYjl1j79BuL4UBLrEDRGjbqJ8+p5ZayopBXGxYe4gRQFYjKIOXcRpSLr1N3VzhUIRP4YPRXXP2D71MzP9kPbH6qRSi1Q7TQO4xeDZQJ0DTPbHyrE4hemn4x8a2XGJzCUy6H60z7zWOxWjp+IfGuuH+qo5p+Wb/Bp0E/Av/aKtKlCMM9zIsWnIyiP4jiRHVNSs1yR/Cff7R9dD2/3FVREs8SQFVHXct/8AupVrJrA6/fr/AHNCr2c5Q1t1HjE1zuf8xOU1obuF0npgyNc1zrH3qOtmsrPhogzqBO45ihXhVbX9mfzufLTMvzozcwbcsx5atd0HtUI8KbMYZzDT2lz9ZfOaKzVGTAo2HoHwq/hbKlRM8uZ/WPhQ61qq+ijvDkDiJOgUGNySAR9X+4qchwlh+HrkWZGg5nqH36p8Q4fPiss/4qgy0bq3MvFHuH4bOkEMCuh0Oo3B8jas9xnG5ltlV2cZQd2IDcsu06fOuPRXaOrbjksfsoAmG7IJ93T1qbAcLLMCwMdUn9dR8Ga67gtbXMZKqzMMsDeBbb+zRF7l9W8hB/rf/wCmuecWvBaLTMp4ZrkRwCR/EHM/f62PUO6qeCtSqyTt1n9VdeGLuVOZQP4gmGJ5PG6J97u7lhGOUacj8B92qu1BCx5ky01mCfQOZ/XVPA4hrWS4CcyHPPOd967/AGwOWynbQ+rmIXaucJaz20AMFhE9XKqYbt/oTPVIv43jN3FKim275LjOryZYudVMactwBEchET4FLbFrbnpsFLMjA20RVUO7PIh2ISRqJBkU/AOHNda45xAt+KGVYCu5QmJtroCRp38qfin7K7rDP4xXyZnACsoQsX8URJCk7ZSCZEgASVbVs5zPuwR2GfOkMFYFlkE+bA18n10RXCWbtvxr3MjTsWToiSQ7adIljGXeOdUuK4BbRDJAV2KqIktpq7OwAXlpAiK54dbLsgYIFYqVzAtOo0IXcDXQiN9anq06aCEcGlrIuazmYgEnxuWSdZy5tKVFMXiUtuUz2OjA6aS2w8ozvSq3RX8C2ZdHWBl6J2eQY9AJb8tKlsuVI5geVBMCIBYanqOsb91GMRwhEzsywiDLtq+hOY5ABzGuU+SATJiqp4gEQIoYgOGIIzTCgaDZhoDqB6659NXbYbCGFxGRMyXFdBoUhXCoxHSJI0MzpudyOtDFoCHW3AQxBcZd9NtUPUAY2Jms7fxZd2cqqk+aAoHLRRt6qdbum5HoA1B3B6/XQed+EZRCHE7me4W22OU8gNIGuoFdYa8AoXNt+L8poZdciMwLc9PfpTDFLqu5icvPT086ZZN2tmOu0h4t0ntwSYdZ30HritO2JXODm2VvO85Pu9lZJsekFlzEDytNVPaOqq/0vb+93f1rrjqlSZOTcnZ6lZ4igM51281v0VT4zjka04zicjDQHUwfuV5x9L2+pu4fOrmFuBxK++kyQjJ22VhKSVJG3w/ELeROmPIXl2D7lK5xSyu7jX7pPwSsUyxvTZh1VFQxX5Hc8nwN8XxyXXGQyFGuhG/VIHV1VlMcOmn4l+NXnvZeRodeuqzk5uqNYgiumDjWqZCSldtG+wVtciSD5K9XV6alu2Rpodzy+6e2sMvEnAjxgj/T8qf6Ub7Rf5PlVbQmrNnjrIAU5f8AMT6o+1Tto1dQZfJ5r9QecO2vMm4mx3uLoQfq7gyDt2Cpfpq59sv8nyplNCuLPSSokdAex/Wgfhdl/Z3gDn9WPrL21kzxx/tl7k+VQ4jiZdSr3FIP4eueQrOaMosK4USF/DVqy7ocyMoOm6htiSOfbQHC44kBUbyRqdDMkmNatriX8/3D5VzzzxTpovHFJq0aDCcWvoxLOHkQZRQfUY0HqqhfLM2aVENmHR2ImIgjTXaKGPiX8/3D5UJvcVvBiM+g7F+VJHJjk7SC4zSps2eBx1xGDZgxAIByqN4mdDO1dniNwsXLAkwPJWNJ2Eab1h24ve+0/lX5VF9M3/P/AJV+VN2S9AuUfZsOKA3xlYxqDoByzebHnGo1skLlkbR5IrJ/TN/z/wCVflTjjN8/X/lX5UahVUDaXmzWNh5Ciduwc4+VSYOzkCpngA+UTEazM8ooNwrD42+wUXAk83AGwnRQpY6c4jUa60ebhwS07tfa7GgORPF5gRmUqpbMMs9IkDUSOdG4q2kDufDZWwKItxWd3CM6g6aqZ0edQ2oOkATB5RWn4BhrSXrhTJcLiULLKhASZcSoznLAQQAd6zGLxyBZkyqwwEBdT0IGxOXQiI0E6THVh+irqXBkhiWOoDSoZRz2Mjcs1Ri1FWagx4VYrD+Ne5alukBAtkLmOgKuTIJMAlSJEzqKg4Jg7VuyHdEJytn8YRo6yBbSTA1MGBFDsfiPGgJC5lEAwZOhkkxmnVqQ4g6KLeZXGechXMh03YnaDyI7eqN1FdtBrgjvYq0jFVZyAdCEABnXQRSqC5fST0n9SiPVJpqXd/QFheNkIVLMQYgSSIEaa6xoOfIdVVMXjBc1UqoJHRUEAR69T6KpLcYt0TCjXWNvUJNK5xBQxBlo3259o3M/3yqNyaoxcsqrSTmnYmJHwkf0rleic2+vLU/DaoLl/oyrFWOvWD1gc+YiultXCoJzNrMTH5CkpGsv53MMI7o/2rjHtoCyjbmu09TDY1PhWncHr3E69fKuOKj+Hp1ieiQapiUXJWVqOtgjgvBWvOVVjblWiRmBymImR6ee1S3fArEg6ZCOuSO8RpUWG4ncUBVcgAnojn0id49NaDCeEAZIcHTRoYg7bwK7YxT8kHJoyWM4JctOqPlluoz8RRjgPBEbN4y4yagDK0AnnJjf51ad0u3kyMxUKTDDVdJiedbPwctWltlXyyzkkN6gPhXP+V2Q2idH46UpUwC3gfb1h7jgbsGMQdjqAe+oz4KW/Oue3WqxPBEgG05TeY1U/wCk6d1C793EKuZ1RgWjODl2HMMQoFcMczfs7HiS9ARvBe35z+0azfDuEq+JuWjOVS8a69FoEmtZxXFX0YQq5SJBYGZAPMNBHoJoN4OOzYpz0cz55JBIWWEkAEHfbXvrqxNuLb9I55pKSS+l391bA3De0aZvBWx1N7RolxbFXLBIhXE6HVdPRr8ao4bit66wCqijnILfmtS6kqux9I3VAjiPg+ivbVcwDEhtZJ6SARP4jRPC+BlhzlF24G6iFHqBirXhChS8hOVlbUAArBlMw1J02HfVnDZ2BZVygNpB26R5kzOk11QnWNSfJzzjc3FFVv8Aw+tD/Mufy/Kh3G/AtbNvOjOxB1BywFg68ucVsMZxtVCzbJYqC+sQZPfoPfUXGuK23wxiQWEAGOZ9+1dMdJK0c72TpmB4JwhWz+NWYyxqRvmnY9got+79jzD7TfOi3g3ZZxcyqp8kajbyjI6jpRkYB/MXuPzrjyycZtHXjScUzHfu/ZmMmv4m+dBPokNfuWwCFQTofw825a16V9HXFg5U06wTMdeutZKyrLi72gmIIkKNSu0zOsaQa2NuV8+EaaSql7BmI8GSqliH2karqdYHrihz8DvqASkSARLLsdjvpMV6c3E4tKhylgAA0gsg20BXQ6LttrG1Z97zhckdGTmYGTzygkjUDfT071aNenZzzcl5VGb/AHfZGC3SASoaFM6HaTyNaPwc/ZLFweNS3lIY5mYqZA0AM7GYOhjlFUeI3hnQypOQZspOWZO09kSdNZqbAXt/V+dVUVQtmv8ACDwo4UVHiLam4uqshS0oJ5MZzN3RWbPhM+IYJeayLaCUVWQZXBUDKZLbZtanNwb6UM464yIdNLike8fnQceBovklN62MzhQydIDUEGRAA5HUmY1hqWES4ywVYiIEwpkajVo01OoFR4XiFlEQllDZFmBLTlE7a8qkHFUIJWSBziJ9R1qEmkX14tkz4NiBmfLGpiSZ9wANTC3aUzkzmCJYkAE7GBzA6yRJJ6gAF/j55IB+JviANKpXeNudmUfhUn4n8qySDUUHfo+z5g9t/wBVKs0eK3PPPsr8qVGka4hK4EUSrQwYaAzJgbaenaqLMW0zg666Dq213Gv51dskMjgZQJQ9n1pnn1d9U3dQpiCxYagnmOsjrqMY/wDTnJkRQQXzHqEeTO4jflRC2VUCYAMBZ1Mnq5HntFDmGVmzEiOiCezQ9RjTcUuG4dg8tGXPpq2skarHpGvbSuN+TB9DG0AHmBHpJqDF3WCk5c2sgHTTnr6ttqkw9wFVBBURrtG+8n0VBxC6AgCmDnXUjcEkaVoR5RRx7bKC27LBXDFRMlTroWmPRrGgqjewupIaRPJRHvNdXLU7KeegUQOkecimNvKvSLqCRuunq6WtehBUiMovyFvBq0SXfkiAetkA+APeK9D4Zh7Lqqlmz7sI07YI2G1ZHglsLhzlEhmknbkqj4VpcE9hDnYdMjUhSYOg3j4Go/kVqrdFsKd8IlxPEUa46I4lDDKJGUEaDqjShXE8WRZdSdIJ5bwd+VD7OIDYnFZWkFlgawOi2sEae/ao8Vh3fMgZZImJOxkdXXXmdJ79vg71Na8kGBxJ8VEkSWB1JzCfrSTJodwN8uKfsz/94q7atXRKEDOdok77a5QOqhGDZlvuREgv6PLrtxQes7+HLOStfs03FbmYSND6OXfVXh97IdxQ29ddgZCkTrP+9VEH4PRnQGI5DNJqKxWqKOdMNcexed7ZmYLerVD+VBuL498ikMwl2mGOuinrqC8TmX+/dNd41VKCV+ueca5R2dldMY1GK/Zzylcm/wBBTg10tZDEkmW1JJO/bUPF2gp+L8ql4NAw4IECW5z9aOqq/Gj5B+919hrpgqSOaXk0/gXi48asgM2QITtmh45GtZa4mESXKOysyvGYdLPAA6OoABkxuKxHgRfQC5mfLqnMCfK6/VWotXEYrnuW3Vd1IBk6wQxbTccuVcmeN5H/AEdeJ1FBbE462TlVgZnUEQIkEE9ehrz5cVkx2IKwcy5esQQm1a5rthUKh0IJJPSWZYydRG5J76wLwcbdykRuOluIQQD10MSa2r4wyptX9DDKcruNIEctCRoD17++hQUtBJkx36nSiJup4vJnbNMwASh106UR11QaYJymBueXr0qmBJR4I523LkA3kKOynTpT37U6kPvy9P5eiquIfpt+L8qew+/99ddK8EqO8awVeiSDPWamu3ybSSZgL+QqjjHkeuufHdGOpR/3LSN8jokILMoJMGBE+gfnRe8Ajqo2jrPKBvOvooZadTl1OgE+nT5Vcu4vOZUGPV7jUZRbZVyRTvWFzGB/vz/OktmII0PWDB7+VX/FzroAZ56/3/foYqJgEMY5z+e1JyOpRJ0OgmO7+tKqmTsX3fOlQ1Yvb9Hw7KVd9IBXSYPbG0b/AO9c/tCq4GQAF13icsxPZGlRYbDMVC6DpdvSk7HlOkVJb4czEGTGbeJietjy091alfIigy6hLZ/qkFh2GDvVbFF2UKZAUggryI2Pp9YomeFPcLOHAVlBI1JBAEx2zNQJaKkgXLbQYPSgyNxG+8iuiGrXd/RzyxzTuHP8FrA3CLahiTC9Wh9JJqnxtugTmB6YgARzPPn7quKz6D+ER2XGnvC6VFiuHXLilegoJB3YnQkxqoneptRUri+DshKThUlyD8KyumWYcSfSDrpTWZGo0mNPdB66sWeAXJ0dZUQJBMT1Vew/DrwUGVJnQkab79fKqKSXsvjnFpKSqgtwoRYCQBMkR1zrpyqTEt0hoOcn1eiq2CTEIYLWz/pIPlHqb0cuqur3D8z5nCEmSZDEbdRNc/5NTSSYIVGTaXAsFhlW4zqSWeCZiBlBHR76Kif7ioVR4jOg/wBLfqp2W5yuJ/6bfrqWNUuWGfPhHRxKK4QqS2gJA0EnST6KxFot+03Mo6WZ9N/r1p7qOHzF1kgbIwX1qXPUDvyofhuFMl1rguIWbNMocvSMmBmn310Ka1cb9EXB7JpFPFJcKNKsBGpiBv8A7VIocEKWuGVViMhyzkEjytNRtGknSjLWHYFWZCDuMh1/nqnevW80M9ssv3DppHn1FJ1Voo/Pgy10EXNZzSARB37PXOlWMRadgFNtzrOzdUebRbFWbTlT40LlJIyLGpjXUmdhTEL/ANU/8vzqrdpc+CTi7fBNw+zlwygqRqTBmRLnrofx7RV/H+RqdlQ/8zcI9XzqC7hrTaNeuN6QD696tHJFLlkpYpN3QHOHLr0QxYMBABMAgySB6BRjh2CtKWZSWI6MtlI2BJUR6p7CKlwBs2pIdjMeUgO09o6668dYDZgSrdYUjTqMNt2Ujyd9+h1ietezu7l6l7hQe3cC320kSBG3VtFFDctfaP3t+uqgw1oMWW66k8xvrvrM1V5lJU1QqxSQXR9YAjr0O3XVW4+pE9dQC2n/AFNzv/rUZsWj/wAxc91RxOME02Pli5tOgHiGh2/FXdqPOGvbGvrir93hlo6i8fWtVzwxeV1fZaqdSP0Tpv4Ur57ffNc29m9H/wAhRrBYW0oOd5M6Zcw7+urjcKtuDkK69UDnMRy2pJTTYyxso4LAI1sOSZI6wAI05CocgCKuaCGadKKNhbqoFVFgE7NMgnbX199Dr+BeNdxJIysNzMLpHvouS9MGj+Fa45AAB99M9wg7wTHwG9NdwrxOU6dXy3qPEDX0BefZS+xXFkgdur30q5t3dKVPQKNhbRRugE7ySfnXbXEgiFEiDC7zSpULK0iibNqFzM+gjymEqpYT0eZiu/2jDroAPSVJPeZpqVT9FI+Do8atxGYD/S3ypDjlrz/5D8qelWCkjk8bSZDmCI8k+r4mmPFlgDM2h5KBSpUjYySHTiqz5beyOetTDiQzCWcwPNX50qVTk2Nqix9LqPP7h+qm+m0825/L+qnpUqbGpUSJj1YTlbadcvzq0l4eYdOsj8qVKqxRzyk+Srj8QxWB0QeqCT2TpAoT4pFAYjeBPOTty/2pqVVSRKTbJlUAeSTufK9e3PvpjpsoI35+rnpSpUUAY3F3yiducjbrMdVM9+PqDqAOu253pUqNIA/7RESEgjzdT640rlcSsEZRodSAO7UUqVGkFkguqd1WNNY/vt5VzmU6ZQZ2/uaVKtSBRyXXzPfSOQbj0jf8qVKg0gUcK1s8j20h4ueyJ216vl309KhSN6OlsA6ADuH99dLxTaaideW0eilSpWKMyPtm95rlrbjYnv8A60qVAFsjdbm5J365/Oq79opUqRtgcmc5B5x7zSpUqGzFtn//2Q=="
+    },
+    
+
+    {
+        "name":"Phoenix Hotels",
+        "price":1900,
+        "state":"Ohio",
+        "Beds":2,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"15x7 m2",
+        "date":"2022-10-21",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, Ohio",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Astound Hotels",
+        "price":1200,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Hotels",
+        "date":"2022-10-22",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ Ohio",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage Hotels",
+        "price":1100,
+        "state":"Ohio",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Hotels",
+        "area":"12.4x7.5 m2",
+        "date":"2022-10-19",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  Ohio",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+
+    {
+        "name":"Happy Homes",
+        "price":1400,
+        "state":"Ohio",
+        "Beds":4,
+        "type":"Houses",
+        "Bathrooms":5,
+        "area":"4x5 m2",
+        "date":"2022-10-20",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, Ohio",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+
+    {
+        "name":"Sanju Towers",
+        "price":1100,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6x5 m2",
+        "date":"2022-10-21",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, Ohio",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Apex Residency",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-22",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Ohio",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Residency",
+        "price":2100,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-19",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Ohio",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+
+    
+
+    {
+        "name":"Astound Hotels",
+        "price":1750,
+        "state":"Ohio",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Hotels",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, Ohio",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"HotelEx",
+        "price":2490,
+        "state":"Ohio",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "type":"Hotels",
+        "date":"2022-10-21",
+        "address":"377 E. Butterfield Rd, Suite 700,Ohio, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX Hotels",
+        "price":1600,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Ohio",
+        "type":"Hotels",
+        "date":"2022-10-22",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+
+    {
+        "name":"Exela Hotels",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Hotels",
+        "area":"9x7.5 m2",
+        "date":"2022-10-19",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  Ohio",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+   
+    {
+        "name":"Apex Hotels",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-20",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Ohio",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Hotels",
+        "price":2100,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-21",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Ohio",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+    
+    {
+        "name":"Blue Star Hotels",
+        "price":1300,
+        "state":"New York",
+        "Beds":3,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"3x5 m2",
+        "date":"2022-10-22",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "image":"data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Happy Hotels",
+        "price":1400,
+        "state":"Ohio",
+        "Beds":4,
+        "type":"Hotels",
+        "Bathrooms":5,
+        "date":"2022-10-19",
+        "area":"4x5 m2",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, Ohio",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+    {
+        "name":"Interprid Travel Luxury",
+        "price":2400,
+        "state":"Ohio",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "date":"2022-10-20",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Ohio",
+        "type":"Hotels",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+
+    {
+        "name":"Sanju Hotels",
+        "price":1100,
+        "state":"Ohio",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6x5 m2",
+        "date":"2022-10-21",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, Ohio",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Astound Offices",
+        "price":1200,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Offices",
+        "date":"2022-10-22",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ Michigan",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage",
+        "price":1100,
+        "state":"Michigan",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Offices",
+        "area":"13x7.5 m2",
+        "date":"2022-10-19",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  Michigan",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+    {
+        "name":"Exela Movers",
+        "price":1700,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Offices",
+        "area":"9x7.5 m2",
+        "date":"2022-10-20",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  Michigan",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+    {
+        "name":"Interprid Travel",
+        "price":2400,
+        "state":"Michigan",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Michigan",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+    {
+        "name":"Marlboro Buildings",
+        "price":1600,
+        "state":"Michigan",
+        "Beds":5,
+        "Bathrooms":3,
+        "area":"3x7.5 m2",
+        "date":"2022-10-22",
+        "address":"9780 Watery Point Parkway, Suite 652, Michigan, AV 29035",
+        "type":"Offices",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxCIDS-OE12wTy3vLrhMdrhXuONYQ3d4_jw&usqp=CAU"
+    },
+    {
+        "name":"Office Upkeep",
+        "price":1400,
+        "state":"Michigan",
+        "Beds":4,
+        "Bathrooms":13,
+        "area":"5x9.5 m2",
+        "date":"2022-10-19",
+        "address":"360 Interstate North Parkway SE, Suite 600, Michigan, GA 30339",
+        "type":"Offices",
+        "image":"https://img.staticmb.com/mbcontent/images/uploads/2022/6/office-interior-design.jpg"
+    },
+    {
+        "name":"Astound Offices",
+        "price":1750,
+        "state":"Michigan",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Offices",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, Michigan",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"OfficeEx",
+        "price":2490,
+        "state":"Michigan",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "type":"Offices",
+        "date":"2022-10-21",
+        "address":"377 E. Butterfield Rd, Suite 700, Michigan, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX",
+        "price":1600,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Michigan",
+        "type":"Houses",
+        "date":"2022-10-22",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+    {
+        "name":"Phoenix Homes",
+        "price":1900,
+        "state":"Michigan",
+        "Beds":2,
+        "type":"Houses",
+        "Bathrooms":3,
+        "area":"15x7 m2",
+        "date":"2022-10-19",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, Michigan",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Blue Star Towers",
+        "price":1300,
+        "state":"Michigan",
+        "Beds":3,
+        "type":"Houses",
+        "Bathrooms":3,
+        "area":"3x5 m2",
+        "date":"2022-10-20",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Michigan",
+        "image":"data:image/jpeg;base64,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"
+    },
+    
+
+    {
+        "name":"Phoenix Hotels",
+        "price":1900,
+        "state":"Michigan",
+        "Beds":2,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "area":"15x7 m2",
+        "date":"2022-10-21",
+        "address":"521 Ala Moana Blvd., Suite 128, Honolulu, Hi, 94813, Michigan",
+        "image":"https://i.ytimg.com/vi/-koAs2gB4T4/maxresdefault.jpg"
+    },
+
+    {
+        "name":"Astound Hotels",
+        "price":1200,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":4,
+        "area":"3.9x9.5 m2",
+        "type":"Hotels",
+        "date":"2022-10-22",
+        "address":"Amalienstrasse 68 / TOP 3, A-1130-152 Wien/ Michigan",
+        "image":"https://i.ytimg.com/vi/iuc9R-3lge8/maxresdefault.jpg"
+    },
+    {
+        "name":"Compass Mortage Hotels",
+        "price":1100,
+        "state":"Michigan",
+        "Beds":4,
+        "Bathrooms":5,
+        "type":"Hotels",
+        "date":"2022-10-19",
+        "area":"12.4x7.5 m2",
+        "address":"5090 Explorer Dr, Suite 802. Mississauga, ON. L4W 4T9  Michigan",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7OSDlvOuQyIkoWBAKJozjG8UP1tpFSnhcw&usqp=CAU"
+    },
+
+    {
+        "name":"Happy Homes",
+        "price":1400,
+        "state":"Michigan",
+        "Beds":4,
+        "type":"Houses",
+        "Bathrooms":5,
+        "date":"2022-10-20",
+        "area":"4x5 m2",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, Michigan",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+
+    {
+        "name":"Sanju Towers",
+        "price":1100,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "date":"2022-10-21",
+        "area":"6x5 m2",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, Michigan",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Apex Residency",
+        "price":1700,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-22",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Michigan",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Residency",
+        "price":2100,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-19",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Michigan",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+    
+
+    {
+        "name":"Astound Hotels",
+        "price":1750,
+        "state":"Michigan",
+        "Beds":3,
+        "Bathrooms":9,
+        "area":"13x7 m2",
+        "type":"Hotels",
+        "date":"2022-10-20",
+        "address":"521 Ala Moana Blvd., Suite 256, Honolulu, Hi, 96813, Michigan",
+        "image":"https://media.gettyimages.com/photos/comfortable-coworking-space-picture-id1264798472?s=612x612"
+    },
+    {
+        "name":"HotelEx",
+        "price":2490,
+        "state":"Michigan",
+        "Beds":12,
+        "Bathrooms":6,
+        "area":"8x7 m2",
+        "type":"Hotels",
+        "date":"2022-10-21",
+        "address":"377 E. Butterfield Rd, Suite 700,Michigan, IL 625009",
+        "image":"https://img.freepik.com/premium-photo/3d-rendering-loft-business-meeting-working-room-office-building_105762-1984.jpg?w=2000"
+    },
+    {
+        "name":"Harbor EX Hotels",
+        "price":1600,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":7,
+        "area":"2x8.5 m2",
+        "date":"2022-10-22",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, Michigan",
+        "type":"Hotels",
+        "image": "https://media.istockphoto.com/photos/single-family-new-construction-home-in-suburb-neighborhood-in-the-picture-id1147674297?b=1&k=20&m=1147674297&s=170667a&w=0&h=PSSRXxU3hgcuy6K5RLiN2YYTSG6IhKu9DVG0WgRp_fc="
+    },
+
+    {
+        "name":"Exela Hotels",
+        "price":1700,
+        "state":"Michigan",
+        "Beds":7,
+        "Bathrooms":9,
+        "type":"Hotels",
+        "area":"9x7.5 m2",
+        "date":"2022-10-19",
+        "address":"Bouchard 680 18th Floor-  C1106 ABJ CABA - Argentina  Michigan",
+        "image":"https://eatsleepworkrepeat.com/wp-content/uploads/2020/06/office.jpg"
+    },
+   
+    {
+        "name":"Apex Hotels",
+        "price":1700,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "area":"6.7x5 m2",
+        "date":"2022-10-20",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Michigan",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    {
+        "name":"Shore Hotels",
+        "price":2100,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "date":"2022-10-21",
+        "area":"6.7x5 m2",
+        "address":"Av. Miguel Grau Nro. 155 (Sub Lote B2 - Office 201-202, 2nd floor) Paita, Piura, Michigan",
+        "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/08f41f53-0f95-4e51-99bc-748520404cf3-spain-incredible-rock-house-2.jpg"
+    },
+
+    
+    {
+        "name":"Blue Star Hotels",
+        "price":1300,
+        "state":"New York",
+        "Beds":3,
+        "type":"Hotels",
+        "Bathrooms":3,
+        "date":"2022-10-22",
+        "area":"3x5 m2",
+        "address":"CITE SALAM 2, LOT 115, BIRKHADEM. 16000, New York",
+        "image":"data:image/jpeg;base64,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"
+    },
+    {
+        "name":"Happy Hotels",
+        "price":1400,
+        "state":"Michigan",
+        "Beds":4,
+        "type":"Hotels",
+        "Bathrooms":5,
+        "date":"2022-10-19",
+        "area":"4x5 m2",
+        "address":"Avenida Camino Real 1281, Piso 3, San Isidro, Lima 27, Michigan",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wYUbLO04r5LHe718NGwur3J9KC-5nvb2Kg&usqp=CAU"
+    },
+    {
+        "name":"Interprid Travel Luxury",
+        "price":2400,
+        "state":"Michigan",
+        "Beds":2,
+        "Bathrooms":4,
+        "area":"5x9.5 m2",
+        "date":"2022-10-20",
+        "address":"Ocean Network Express Colombia S.A.S Carrera 10 No. 28-49 Piso 18, Michigan",
+        "type":"Hotels",
+        "image":"https://assets-news.housing.com/news/wp-content/uploads/2022/01/11171226/World%E2%80%99s-15-Most-Beautiful-Houses-That-Will-Leave-You-Awestruck-02.png"
+    },
+
+    {
+        "name":"Sanju Hotels",
+        "price":1100,
+        "state":"Michigan",
+        "Beds":5,
+        "type":"Hotels",
+        "Bathrooms":7,
+        "date":"2022-10-21",
+        "area":"6x5 m2",
+        "address":"Calle Fray Martin de Murua 187 - 4th floor, San Miguel, Lima 32, Michigan",
+        "image":"https://www.airtasker.com/blog/wp-content/uploads/2019/09/shutterstock_48352354.jpg"
+    },
+    
+    {
+        "name":"Vivanta Homes",
+        "price":1300,
+        "state":"New York",
+        "Beds":5,
+        "type":"Houses",
+        "Bathrooms":7,
+        "date":"2022-10-20",
+        "area":"6x5 m2",
+        "address":"Calle Fray Martin de Murua 187 - 7th floor, San Miguel, Lima 32, New York",
+        "image":"https://architecturebeast.com/wp-content/uploads/2014/09/Most_Beautiful_Houses_In_The_World_House_M_featured_on_architecture_beast_02.jpg"
+    },
+
+    {
+        "name":"RCM Residency",
+        "price":1300,
+        "state":"New York",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"6x5 m2",
+        "address":" Fulcrum, 3rd Floor, A Wing, Sahar Road, Next to Hyatt Regency, Andheri East, New York-400 099.",
+        "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tiny-house-on-stilts-1520625904.jpg"
+    },
+
+    {
+        "name":"Rostery Homes",
+        "price":1500,
+        "state":"New York",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-20",
+        "area":"6x5 m2",
+        "address":" Fulcrum, 3rd Floor, A Wing, Sahar Road, Next to Hyatt Regency, Andheri East, New York-400 099.",
+        "image":"https://netstorage-tuko.akamaized.net/images/7f18819e6e95ca98.jpg?imwidth=900"
+    },
+
+    {
+        "name":"Fulcrum Homes",
+        "price":1900,
+        "state":"New York",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"6x5 m2",
+        "address":" Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://ychef.files.bbci.co.uk/976x549/p053m19p.jpg"
+    },
+
+    {
+        "name":"Rising Star Homes",
+        "price":2300,
+        "state":"New York",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-22",
+        "area":"8x5 m2",
+        "address":" Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://wallpaper.dog/large/5491320.jpg"
+    },
+    
+    {
+        "name":"Ringo Offices",
+        "price":1200,
+        "state":"New York",
+        "Beds":6,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":" Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://images.unsplash.com/photo-1622126807280-9b5b32b28e77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxVRFRBOUJSWmZYUXx8ZW58MHx8fHw%3D&w=1000&q=80"
+    },
+
+    {
+        "name":"Lannister Offices",
+        "price":1600,
+        "state":"New York",
+        "Beds":6,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-20",
+        "area":"8x5 m2",
+        "address":" Address: Door No.612, Chaitanya Imperial,Block-A, 4th Floor, Anna Salai, New York",
+        "image":"https://assets.iwgplc.com/image/upload/Regus/Website/homepage-product-office-space.jpg"
+    },
+
+    {
+        "name":"Stark Offices",
+        "price":1600,
+        "state":"New York",
+        "Beds":7,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-21",
+        "area":"8x5 m2",
+        "address":" 401-404, Savitri Complex, Ludhiana - 141 003 New York",
+        "image":"https://res.cloudinary.com/hni-corporation/image/upload/fl_attachment,fl_attachment/d_allsteel-fallback-image_jy84n9.jpg/f_auto,q_50/t_dl_medium/v1634579601/Allsteel/Brand/Brand%20Connect%20Assets/Showroom%20Maps/Environment_Fit_System_0513_v2.png"
+    },
+
+    {
+        "name":"Riverrun Offices",
+        "price":1800,
+        "state":"New York",
+        "Beds":7,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"115-116, Siddhivinayak Complex, Tagore Road, Gandhidham- New York",
+        "image":"https://www.nobroker.in/blog/wp-content/uploads/2022/01/Vastu-Plants-for-the-Office-min-1.jpg"
+    },
+
+    {
+        "name":"Winterfell Offices",
+        "price":1800,
+        "state":"New York",
+        "Beds":7,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://www.hermanmiller.com/content/dam/hmicom/page_assets/home/image_gallery/ig_home_where_office_meets_mealtime_20221010.jpg.rendition.480.480.jpg"
+    },
+
+    {
+        "name":"Casterly Rock",
+        "price":2200,
+        "state":"New York",
+        "Beds":7,
+        "type":"Offices",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://eopwebsvr.blob.core.windows.net/media/filer_public/bb/9c/bb9c56f1-2fc2-432b-a9c7-d7e6ece59e66/emb_manyata_dr2_dji_0313.jpg"
+    },
+
+    {
+        "name":"Casterly Rock",
+        "price":2200,
+        "state":"New York",
+        "Beds":7,
+        "type":"Hotels",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://eopwebsvr.blob.core.windows.net/media/filer_public/bb/9c/bb9c56f1-2fc2-432b-a9c7-d7e6ece59e66/emb_manyata_dr2_dji_0313.jpg"
+    },
+
+    {
+        "name":"DragonStone",
+        "price":1500,
+        "state":"New York",
+        "Beds":7,
+        "type":"Hotels",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, New York – 110 020.",
+        "image":"https://pix10.agoda.net/hotelImages/124/1246280/1246280_16061017110043391702.jpg?ca=6&ce=1&s=1024x768"
+    },
+
+    {
+        "name":"Kings Landing",
+        "price":2100,
+        "state":"Ohio",
+        "Beds":7,
+        "type":"Hotels",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, Ohio – 110 020.",
+        "image":"https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg"
+    },
+
+    {
+        "name":"The Trident",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":7,
+        "type":"Hotels",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, Ohio – 110 020.",
+        "image":"https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg"
+    },
+
+    {
+        "name":"The Home",
+        "price":1400,
+        "state":"Ohio",
+        "Beds":7,
+        "type":"Hotels",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"8x5 m2",
+        "address":"Address: No. 203, Ground Floor, Okhla Industrial Estate III, Ohio – 110 020.",
+        "image":"https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg"
+    },
+
+    {
+        "name":"HarrenHall",
+        "price":1600,
+        "state":"Ohio",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-21",
+        "area":"6x5 m2",
+        "address":" Fulcrum, 3rd Floor, A Wing, Sahar Road, Next to Hyatt Regency, Andheri East, Ohio-400 099.",
+        "image":"https://netstorage-tuko.akamaized.net/images/7f18819e6e95ca98.jpg?imwidth=900"
+    },
+
+    {
+        "name":"KarStarks",
+        "price":1700,
+        "state":"Ohio",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"6x5 m2",
+        "address":" Address: No. 203, Ground Floor, Okhla Industrial Estate III, Ohio – 110 020.",
+        "image":"https://ychef.files.bbci.co.uk/976x549/p053m19p.jpg"
+    },
+
+    {
+        "name":"Valyria Homes",
+        "price":1900,
+        "state":"New York",
+        "Beds":6,
+        "type":"Houses",
+        "Bathrooms":8,
+        "date":"2022-10-19",
+        "area":"6x5 m2",
+        "address":" Fulcrum, 3rd Floor, A Wing, Sahar Road, Next to Hyatt Regency, Andheri East, Ohio-400 099.",
+        "image":"https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjBib29raW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    }
+
+
+    
+    
+
+
+
+
+
+
+
+]
