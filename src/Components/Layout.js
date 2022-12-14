@@ -17,7 +17,9 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { DesktopDatePicker } from '@mui/x-date-pickers/DesktopDatePicker';
 import dayjs from 'dayjs';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import Stack from '@mui/material/Stack';
+import {createMedia} from '@artsy/fresnel'
+
+
 import {
     Typography,
     Grid,
@@ -25,11 +27,15 @@ import {
     makeStyles,
     Card,Button
   } from "@material-ui/core";
+ 
+  const AppMedia = createMedia({
+    breakpoints: { zero: 0, mobile: 849 }
+  });
 
-  let theme = createTheme();
-theme = responsiveFontSizes(theme);
+  const mediaStyles=AppMedia.createMediaStyle()
+  const{Media,MediaContextProvider}=AppMedia;
 
-  const useStyles = makeStyles((theme) => ({
+  const useStyles = makeStyles(() => ({
     typo:
     {
         flexGrow:1,
@@ -164,7 +170,12 @@ function Layout()
     },[check])
   return(
     <>
+    <style>{mediaStyles}</style>
+
+    <MediaContextProvider>
+    <Media greaterThanOrEqual='mobile'>
     <Box sx={{ flexGrow: 1 }}>
+     
       <Grid container spacing={2} style={{marginTop:"3%"}} direction="row" justify="center" alignItems="center">
         <Grid item md={8} xs={8} sm={12}>
           <ThemeProvider theme={theme}>
@@ -176,6 +187,25 @@ function Layout()
         </Grid>
       </Grid>
     </Box>
+    </Media>
+
+    <Media lessThan='mobile'>
+    <Box sx={{ flexGrow: 1 }}>
+     
+     <Grid container spacing={2} style={{marginTop:"3%"}} direction="row" justify="center" alignItems="center">
+       <Grid item md={8} xs={8} sm={12}>
+         <ThemeProvider theme={theme}>
+         
+         </ThemeProvider>
+       </Grid>
+       <Grid item md={4} xs={8}>
+       <TextField id="outlined-basic" label="Search By Name" variant="outlined" />
+       </Grid>
+     </Grid>
+   </Box>
+    </Media>
+    </MediaContextProvider>
+    
 
     <Box sx={{flexgrow:1}}>
       <Grid container spacing={2} style={{marginTop:"2%"}}direction="row"
@@ -294,7 +324,11 @@ function Layout()
             ) 
            )}
         </Grid>
+        
+        
     </Box>
+   
+    
     </>
   )
 
